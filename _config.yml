@@ -1,0 +1,8 @@
+title: Ece592projectb1
+description: "This repository will be used for ECE 592-081 Project B1. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
